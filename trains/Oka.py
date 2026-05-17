@@ -1,4 +1,4 @@
-from Metro_train import Metro_train
+from trains.Metro_train import Metro_train
 
 class Oka(Metro_train):
     """Вагоны серии 81-760/761 «Ока» (с асинхронным приводом, гладкие стены)."""

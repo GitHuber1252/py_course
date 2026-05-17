@@ -1,4 +1,4 @@
-from Metro_train import Metro_train
+from trains.Metro_train import Metro_train
 
 class Numberseries(Metro_train):
     """Вагоны серии 81-717/714 и их модификации (Номерные)."""
